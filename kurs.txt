@@ -1,4 +1,5 @@
-Met hulp van https://www.udemy.com/learn-php-via-examples-and-mini-tasks
+Met de hulp van 	https://www.udemy.com/learn-php-via-examples-and-mini-tasks
+			https://teamtreehouse.com/tracks/beginning-php
 
 
 TO DO 
