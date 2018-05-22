@@ -1,0 +1,8 @@
+Met hulp van https://www.udemy.com/learn-php-via-examples-and-mini-tasks
+
+
+TO DO 
+
+SUCCESS PAGE
+LOGIN PAGE
+ADMIN PAGE
